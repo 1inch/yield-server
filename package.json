@@ -40,7 +40,7 @@
     "simple-statistics": "^7.7.5",
     "superagent": "^6.1.0",
     "validator": "^13.9.0",
-    "web3": "^1.4.0"
+    "web3": "^4.7.0"
   },
   "devDependencies": {
     "@babel/core": "^7.17.8",
